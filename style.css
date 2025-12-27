@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+input, select, textarea {
+  width: 90%;
+  padding: 12px;
+  margin: 8px;
+  border-radius: 10px;
+  border: none;
+}
+
+button {
+  width: 90%;
+  padding: 14px;
+  border-radius: 12px;
+  background: #D8BBFF;
+  border: none;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.page1 { background: #FFDBFA; }
+.page2 { background: #FECCFF; }
+.page3 { background: #D8BBFF; }
